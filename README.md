@@ -17,3 +17,5 @@
 
 # Deep Learning upto BERT
 [Zero-Transformer](https://www.kaggle.com/code/tanulsingh077/deep-learning-for-nlp-zero-to-transformers-bert)
+
+[AI curated contents](https://github.com/ashishps1/learn-ai-engineering)
