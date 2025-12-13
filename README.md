@@ -1,10 +1,10 @@
 # FoundationAI
 
-![ML Algorithms](https://github.com/Gdisbar/FoundationAI/blob/main/ML.jpg)
-
 # System Design
 
 [ML System Design](https://www.youtube.com/watch?v=ZjNoipQAqRM&list=PLrtCHHeadkHqYX7O5cjHeWHzH2jzQqWg5&index=8)
+
+[ML case studies](https://github.com/Engineer1999/A-Curated-List-of-ML-System-Design-Case-Studies)
 
 # Self-Organizing Maps
 
@@ -23,3 +23,6 @@
 [Zero-Transformer](https://www.kaggle.com/code/tanulsingh077/deep-learning-for-nlp-zero-to-transformers-bert)
 
 [AI curated contents](https://github.com/ashishps1/learn-ai-engineering)
+
+
+![ML Algorithms](https://github.com/Gdisbar/FoundationAI/blob/main/ML.jpg)
