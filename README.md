@@ -6,6 +6,20 @@
 
 [ML case studies](https://github.com/Engineer1999/A-Curated-List-of-ML-System-Design-Case-Studies)
 
+## Blogs
+
+[Transformers](https://aigents.co/data-science-blog/publication/the-transformers-architecture-in-detail-whats-the-magic-behind-llms)
+
+[Understanding LLM](https://magazine.sebastianraschka.com/p/understanding-large-language-models)
+
+## Building from Scratch
+
+[Build Small LLM](https://www.youtube.com/watch?v=KOXaH7-0gEE)
+
+[Reproduce GPT-2](https://www.youtube.com/watch?v=l8pRSuU81PU)
+
+[Reproduce Deepseek](https://www.youtube.com/playlist?list=PL0ioahleXcwvhkQ1z8ygRQI0EVg38Z0gf)
+
 # Applications
 
 [Transformer from scratch](https://www.kaggle.com/code/arunmohan003/transformer-from-scratch-using-pytorch)
