@@ -6,10 +6,6 @@
 
 [ML case studies](https://github.com/Engineer1999/A-Curated-List-of-ML-System-Design-Case-Studies)
 
-# Self-Organizing Maps
-
-[Self-Organizing Maps](https://www.kaggle.com/code/abedi756/self-organizing-maps)
-
 # Applications
 
 [Transformer from scratch](https://www.kaggle.com/code/arunmohan003/transformer-from-scratch-using-pytorch)
@@ -24,5 +20,8 @@
 
 [AI curated contents](https://github.com/ashishps1/learn-ai-engineering)
 
+# Self-Organizing Maps
+
+[Self-Organizing Maps](https://www.kaggle.com/code/abedi756/self-organizing-maps)
 
 ![ML Algorithms](https://github.com/Gdisbar/FoundationAI/blob/main/ML.jpg)
