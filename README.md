@@ -2,6 +2,10 @@
 
 ![ML Algorithms](https://github.com/Gdisbar/FoundationAI/blob/main/ML.jpg)
 
+# System Design
+
+[ML System Design](https://www.youtube.com/watch?v=ZjNoipQAqRM&list=PLrtCHHeadkHqYX7O5cjHeWHzH2jzQqWg5&index=8)
+
 # Self-Organizing Maps
 
 [Self-Organizing Maps](https://www.kaggle.com/code/abedi756/self-organizing-maps)
