@@ -1,5 +1,7 @@
 # FoundationAI
-
+```
+!jq 'del(.metadata.widgets)' Source.ipynb > Target.ipynb ## use this one in colab to avoid Github Metadata error
+```
 # System Design
 
 [ML System Design](https://www.youtube.com/watch?v=ZjNoipQAqRM&list=PLrtCHHeadkHqYX7O5cjHeWHzH2jzQqWg5&index=8)
