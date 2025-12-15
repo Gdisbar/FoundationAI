@@ -3,4 +3,4 @@
 
 [Self-Organizing Maps](https://www.kaggle.com/code/abedi756/self-organizing-maps)
 
-![ML Algorithms](https://github.com/Gdisbar/FoundationAI/blob/main/ML.jpg)
+![ML Algorithms](https://github.com/Gdisbar/FoundationAI/blob/main/ML/ML.jpg)
