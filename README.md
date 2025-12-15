@@ -20,7 +20,11 @@
 
 [Reproduce GPT-2](https://www.youtube.com/watch?v=l8pRSuU81PU)
 
+[Reproduce Mistral](https://www.youtube.com/watch?v=hn248X6n4tk)
+
 [Reproduce Deepseek](https://www.youtube.com/playlist?list=PL0ioahleXcwvhkQ1z8ygRQI0EVg38Z0gf)
+
+
 
 
 # Deep Learning upto BERT
