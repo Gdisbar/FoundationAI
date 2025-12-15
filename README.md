@@ -24,8 +24,6 @@
 
 # Applications
 
-[Transformer from scratch](https://www.kaggle.com/code/arunmohan003/transformer-from-scratch-using-pytorch)
-
 [Google Translate for NLP Augmentation](https://www.kaggle.com/code/tuckerarrants/using-google-translate-for-nlp-augmentation)
 
 [Stock Exchange Prediction](https://www.kaggle.com/code/chumajin/easy-to-understand-the-competition)
