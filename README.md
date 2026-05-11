@@ -1,6 +1,6 @@
 # FoundationAI
 ```
-!jq 'del(.metadata.widgets)' Source.ipynb > Target.ipynb ## use this one in colab to avoid Github Metadata error
+!jq 'del(.metadata.widgets)' Source.ipynb > Target.ipynb 
 !jq '.metadata = {"kernelspec": .metadata.kernelspec, "language_info": .metadata.language_info} | del(.cells[].metadata.collapsed)' Source.ipynb > Target.ipynb
 ```
 # System Design
