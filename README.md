@@ -26,6 +26,15 @@
 [Reproduce Deepseek](https://www.youtube.com/playlist?list=PL0ioahleXcwvhkQ1z8ygRQI0EVg38Z0gf)
 
 
+## LLM Fine-Tuning
+
+[LLM-Finetuning](https://github.com/ashishpatel26/LLM-Finetuning)
+
+
+# GPU Training
+
+[Gemma-2 9b 4-bit QLoRA fine-tuning](https://www.kaggle.com/code/emiz6413/training-gemma-2-9b-4-bit-qlora-fine-tuning)
+
 
 
 # Deep Learning upto BERT
